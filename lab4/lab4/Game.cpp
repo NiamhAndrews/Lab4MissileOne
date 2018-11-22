@@ -1,4 +1,4 @@
-// author Peter Lowe
+// author Niamh Andrews
 
 #include "Game.h"
 #include <iostream>

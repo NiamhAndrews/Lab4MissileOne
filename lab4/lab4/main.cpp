@@ -3,7 +3,7 @@
 /// 
 /// 
 /// @author Peter Lowe
-/// @date May 2018
+/// @date 10th of December
 /// </summary>
 
 #ifdef _DEBUG 
